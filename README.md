@@ -1,4 +1,4 @@
-# Embedded Fault Diagnosis System for Rotating Machinery
+# Multi-Fault Diagnosis Using Lightweight Machine Learning Techniques for Rotordynamics Analysis in Multi-Domain
 
 This repository contains an embedded system for real-time monitoring and fault diagnosis of rotating machinery, specifically designed for edge devices such as the Raspberry Pi. The system employs advanced signal processing techniques and machine learning ensembles to detect common mechanical faults, including unbalance and misalignments.
 
