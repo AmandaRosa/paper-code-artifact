@@ -9,6 +9,8 @@ This repository contains an embedded system for real-time monitoring and fault d
   - `Unbalance`
   - `Horizontal Misalignment`
   - `Vertical Misalignment`
+  - `Rubbing`
+  - `Crack`
 - **Advanced Signal Processing:**
   - **Time Domain:** RMS, Standard Deviation, Kurtosis, etc.
   - **Frequency Domain:** Power Spectral Density (PSD), FFT peak analysis.
