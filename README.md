@@ -81,9 +81,9 @@ The `data/` directory contains sample vibration signals used for training and te
 
 ## 📄 Citation
 
-If you use this code or dataset in your research, please cite our paper:
+If you use this code or dataset in your research, please cite:
 
-> *Citation placeholder - To be updated upon publication.*
+> Jorge, Amanda Rosa Ferreira. *Embedded Fault Diagnosis System for Rotating Machinery*. Submitted to **JOURNAL/CONFERENCE NAME**, YEAR.
 
 ## 📜 License
 
