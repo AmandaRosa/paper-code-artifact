@@ -1,0 +1,12 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+greenlet==3.2.0
+idna==3.10
+numpy==2.2.4
+paho-mqtt==2.1.0
+psycopg2-binary==2.9.10
+requests==2.32.3
+scipy==1.15.2
+SQLAlchemy==2.0.40
+typing_extensions==4.13.2
+urllib3==2.4.0
