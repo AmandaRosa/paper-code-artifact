@@ -11,7 +11,8 @@ This repository contains an embedded system for real-time monitoring and fault d
   - `Vertical Misalignment`
   - `Rubbing`
   - `Crack`
-    *ROSS signal generated can be found at: https://drive.google.com/drive/folders/1OUiW2tr4lx8QIQr9yf4KlgiegyNANZy6?usp=sharing*
+
+  - *ROSS signal generated can be found at: https://drive.google.com/drive/folders/1OUiW2tr4lx8QIQr9yf4KlgiegyNANZy6?usp=sharing*
     
 - **Advanced Signal Processing:**
   - **Time Domain:** RMS, Standard Deviation, Kurtosis, etc.
