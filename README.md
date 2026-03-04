@@ -11,6 +11,8 @@ This repository contains an embedded system for real-time monitoring and fault d
   - `Vertical Misalignment`
   - `Rubbing`
   - `Crack`
+    *ROSS signal generated can be found at: https://drive.google.com/drive/folders/1OUiW2tr4lx8QIQr9yf4KlgiegyNANZy6?usp=sharing*
+    
 - **Advanced Signal Processing:**
   - **Time Domain:** RMS, Standard Deviation, Kurtosis, etc.
   - **Frequency Domain:** Power Spectral Density (PSD), FFT peak analysis.
@@ -85,7 +87,7 @@ The `data/` directory contains sample vibration signals used for training and te
 
 If you use this code or dataset in your research, please cite:
 
-> Jorge, Amanda Rosa Ferreira. *Embedded Fault Diagnosis System for Rotating Machinery*. Submitted to **JOURNAL/CONFERENCE NAME**, YEAR.
+> Jorge, Amanda Rosa Ferreira. *Multi-Fault Diagnosis Using Lightweight Machine Learning Techniques for Rotordynamics Analysis in Multi-Domain*. Submitted to **APPLIED ARTIFICIAL INTELLIGENCE**, 2026.
 
 ## 📜 License
 
